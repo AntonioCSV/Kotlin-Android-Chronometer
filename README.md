@@ -8,3 +8,6 @@ A simple cronometer
 - Start counting time
 - Pause the counting
 - Reset couting
+
+### Screenshot
+![](https://raw.githubusercontent.com/AntonioCSV/Kotlin-Android-Chronometer/main/screenshot.png)
